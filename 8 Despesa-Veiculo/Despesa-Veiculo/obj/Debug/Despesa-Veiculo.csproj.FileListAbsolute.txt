@@ -1,0 +1,20 @@
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.csprojAssemblyReference.cache
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa_Veiculo.Form1.resources
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa_Veiculo.Properties.Resources.resources
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.csproj.GenerateResource.cache
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\bin\Debug\Despesa-Veiculo.exe.config
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\bin\Debug\Despesa-Veiculo.exe
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\bin\Debug\Despesa-Veiculo.pdb
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.exe
+C:\Users\Priscilla\source\repos\Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.pdb
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\bin\Debug\Despesa-Veiculo.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\bin\Debug\Despesa-Veiculo.exe
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\bin\Debug\Despesa-Veiculo.pdb
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa_Veiculo.Form1.resources
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa_Veiculo.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.exe
+C:\Users\Priscilla\Desktop\Treino POO\8 Despesa-Veiculo\Despesa-Veiculo\obj\Debug\Despesa-Veiculo.pdb
